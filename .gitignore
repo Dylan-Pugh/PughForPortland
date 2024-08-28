@@ -2,3 +2,4 @@
 campaign_website/make.bat
 campaign_website/Makefile
 campaign_website/build/*
+campaign_website/environment.yaml
